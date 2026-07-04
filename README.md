@@ -1,1 +1,1 @@
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=dbmalkovsky&include_all_commits=true&disable_animations=true)](https://github-stats-extended.vercel.app/api?username=dbmalkovsky&include_all_commits=true&disable_animations=true)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=dbmalkovsky&include_all_commits=true&disable_animations=true&hide=stars)](https://github-stats-extended.vercel.app/api?username=dbmalkovsky&include_all_commits=true&disable_animations=true)
