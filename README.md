@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=dbmalkovsky&count_private=true&hide=stars)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=dbmalkovsky&include_all_commits=true&disable_animations=true)](https://github-stats-extended.vercel.app/api?username=dbmalkovsky&include_all_commits=true&disable_animations=true)
